@@ -6,5 +6,6 @@
 - It demonstrate GitHub version control.
 - It includes a README file with basic formating.
 
-![Sample Image](https://via.placeholder.com/150)
+![Sample Image](https://picsum.photos/150)
+
 [Visit GitHub](https://github.com/)
